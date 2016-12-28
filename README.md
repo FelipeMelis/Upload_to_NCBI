@@ -6,13 +6,8 @@
 
 Protocol for upload genomic data to NCBI
 
-1. Create a BioProject
-
-  * https://submit.ncbi.nlm.nih.gov/subs/bioproject/ [New Submission]
-  * Follow the steps until the creation of the biosample
+1. Create a SRA project
   
-2. Create a Biosample
-
-  * https://submit.ncbi.nlm.nih.gov/subs/biosample/
-  *
-
+  * https://submit.ncbi.nlm.nih.gov/subs/sra/ [New Submission]
+  * Create new BioProject and Biosamples in the same SRA project
+  * Fill the excel data for the pathogens
