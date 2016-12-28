@@ -1,6 +1,13 @@
-# Upload to NCBI
+### Upload to NCBI
 
-Protocol for upload genomic data to NCBI
+![NCBI Logo]
+(https://www.ncbi.nlm.nih.gov/corehtml/logo256.gif)
 
 
-1.- Create a BioProject
+## Protocol for upload genomic data to NCBI
+
+# Create a BioProject
+
+https://submit.ncbi.nlm.nih.gov/subs/bioproject/ [New Submission]
+
+
