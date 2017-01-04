@@ -16,6 +16,6 @@ Protocol for upload genomic data to NCBI
 3. ftp upload of the reads (<300 mb)
   * Access to NCBI ftp server: ``` ftp -i ncbi_ftp_server ```
   * cd to upload folders and create a subfolder with a meaningful name (mkdir) 
-  * ``` mput *files ```
+  * ``` mput *files ``` (this upload the files to ftp server)
   * Wait
      
