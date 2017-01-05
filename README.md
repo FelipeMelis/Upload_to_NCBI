@@ -4,7 +4,7 @@
 (https://www.ncbi.nlm.nih.gov/corehtml/logo256.gif)
 
 
-Protocol for upload genomic data to NCBI
+**Protocol for upload genomic data to NCBI**
 
 1. Create a SRA project
   * https://submit.ncbi.nlm.nih.gov/subs/sra/ [New Submission]
@@ -18,4 +18,4 @@ Protocol for upload genomic data to NCBI
   * cd to upload folders and create a subfolder with a meaningful name (mkdir) 
   * ``` mput *files ``` (this upload the files to ftp server)
   * Wait
-     
+  
