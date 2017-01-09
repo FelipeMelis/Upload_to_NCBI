@@ -13,8 +13,8 @@
   * Fill the excel data for the pathogens and save as a tab delimited file
   * Fill the excel with the SRA Metadata and save as a tab delimited file
  
-3. ftp upload of the reads (>300 mb)
-  * Access to NCBI ftp server: ``` ftp -i ncbi_ftp_server ```
+3. ftp upload for the reads (>300 mb)
+  * Access to NCBI ftp server: ``` ftp -i ncbi_ftp_server ``` (**the user and password are in the login page of your submission portal**)
   * cd to upload folders and create a subfolder with a meaningful name (mkdir) 
   * ``` mput *files ``` (this upload the files to ftp server)
   * Wait
