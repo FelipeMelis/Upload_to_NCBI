@@ -21,7 +21,7 @@
 
 4. Create a WGS project
   * https://submit.ncbi.nlm.nih.gov/subs/wgs [New Submission]
-  * Register de Bioproject and Biosample ID (One WGS project for Biosample ID)
+  * Register de Bioproject and Biosample ID, one WGS project for Biosample ID (this data are in the SRA submission portal)
   * Upload the contig fasta file (min contig len > 200) (use perl script: ```./removesmalls.pl 200 contigs.fasta > contigs_200.fasta ```)
   * Register authors and a reference title
   
